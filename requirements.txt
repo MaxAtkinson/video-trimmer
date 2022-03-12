@@ -17,7 +17,7 @@ jmespath==0.9.4
 MarkupSafe==1.1.1
 moviepy==1.0.1
 numpy==1.17.4
-Pillow==6.2.1
+Pillow==9.0.1
 proglog==0.1.9
 python-dateutil==2.8.0
 python-dotenv==0.10.3
